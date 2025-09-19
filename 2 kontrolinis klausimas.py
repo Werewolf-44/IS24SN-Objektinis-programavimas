@@ -1,6 +1,6 @@
-""" Antras kontrolinis klausimas. Kontrolinis darbas (kitai savaitei, po teorinės paskaitos). 
-Kaip objektas(objektai) yra susiję su klase(klasėmis). Atsakant į klausimą reiktų aiškinti apie klasės struktūrą(šabloną),
-galite remtis savo arba mano praktiniais pavyzdžiais"""
+# Antras kontrolinis klausimas. Kontrolinis darbas (kitai savaitei, po teorinės paskaitos). 
+# Kaip objektas(objektai) yra susiję su klase(klasėmis). Atsakant į klausimą reiktų aiškinti apie klasės struktūrą(šabloną),
+# galite remtis savo arba mano praktiniais pavyzdžiais
 
 """ Atsakymas:
 Objektas yra konkretus klasės egzempliorius. Klasė yra šablonas, o objektas yra pagal tą šabloną sukurtas konkretus "daiktas".

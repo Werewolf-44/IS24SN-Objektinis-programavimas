@@ -1,5 +1,3 @@
-
-
 # Importuojame reikalingas bibliotekas
 from statistics import mean
 from typing import List, Optional
